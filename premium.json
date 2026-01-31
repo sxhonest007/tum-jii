@@ -1,0 +1,14 @@
+{
+  "premium_users": [
+    {
+      "id": "923151105391@s.whatsapp.net",
+      "name": "QADEER KHAN",
+      "level": "Developer",
+      "expire": "Infinity"
+    }
+  ],
+  "config": {
+    "limit_commands": false,
+    "premium_only_mode": false
+  }
+}
