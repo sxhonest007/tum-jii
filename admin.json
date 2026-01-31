@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "923151105391@s.whatsapp.net"
+  ],
+  "moderators": [],
+  "premium_users": [
+    "923151195391@s.whatsapp.net"
+  ],
+  "system_config": {
+    "maintenance_mode": false,
+    "global_prefix": "."
+  }
+}
